@@ -1,6 +1,6 @@
 <h3 align="center">Je suis passioner par le développement </h3>
 
-- 🔭 Je suis entrain de travailer sur [Valarya](Valarya.valaron.fr)
+- 🔭 Je suis entrain de travailler sur [Valarya](Valarya.valaron.fr)
 
 - 🌱 je suis entrain d'apprendre le développement **C#,java,back end,front end etc**
 
