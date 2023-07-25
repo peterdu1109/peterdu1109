@@ -4,7 +4,7 @@
 
 - 🌱 je suis entrain d'apprendre le développement **C#,java,back end,front end etc**
 
-- 👯 Je collabore avec **Valaron**
+- 👯 Je collabore avec **Valtorria**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
