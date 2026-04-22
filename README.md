@@ -1,18 +1,18 @@
 <div align="center">
 
-<a href="https://github.com/Peterdu1109">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Peter%20Du&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cloud%20%7C%20DevOps&descAlignY=58&descSize=18&animation=twinkling" alt="banner" />
+<a href="https://github.com/peterdu1109">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=peterdu1109&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cloud%20%7C%20DevOps&descAlignY=58&descSize=18&animation=twinkling" alt="banner" />
 </a>
 
-<a href="https://github.com/Peterdu1109">
+<a href="https://github.com/peterdu1109">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=6AC4F4&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Bienvenue+sur+mon+profil+GitHub+%F0%9F%91%8B;Full-Stack+Developer+%7C+DevOps+%7C+Cloud+Engineer;Toujours+en+train+d%27apprendre+quelque+chose+de+nouveau+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Peterdu1109&label=Profile%20views&color=6ac4f4&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/Peterdu1109?label=Followers&style=for-the-badge&color=6ac4f4&labelColor=0d1117" alt="followers" />
-<img src="https://img.shields.io/github/stars/Peterdu1109?label=Stars&style=for-the-badge&color=6ac4f4&labelColor=0d1117" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=peterdu1109&label=Profile%20views&color=6ac4f4&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/peterdu1109?label=Followers&style=for-the-badge&color=6ac4f4&labelColor=0d1117" alt="followers" />
+<img src="https://img.shields.io/github/stars/peterdu1109?label=Stars&style=for-the-badge&color=6ac4f4&labelColor=0d1117" alt="stars" />
 
 </div>
 
@@ -209,14 +209,14 @@ const peter = {
 
 <div align="center">
 
-<a href="https://github.com/Peterdu1109">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Peterdu1109&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6ac4f4&icon_color=6ac4f4&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peterdu1109&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6ac4f4&text_color=c9d1d9&langs_count=10" />
+<a href="https://github.com/peterdu1109">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterdu1109&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6ac4f4&icon_color=6ac4f4&text_color=c9d1d9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterdu1109&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6ac4f4&text_color=c9d1d9&langs_count=10" />
 </a>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Peterdu1109&theme=tokyonight&hide_border=true&background=0D1117&ring=6ac4f4&fire=6ac4f4&currStreakLabel=6ac4f4" alt="Streak Stats" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=peterdu1109&theme=tokyonight&hide_border=true&background=0D1117&ring=6ac4f4&fire=6ac4f4&currStreakLabel=6ac4f4" alt="Streak Stats" />
 
 </div>
 
@@ -225,7 +225,7 @@ const peter = {
 ## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" /> Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Peterdu1109&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=peterdu1109&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=6" alt="trophies" />
 </div>
 
 ---
@@ -233,7 +233,7 @@ const peter = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> Top Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Peterdu1109&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=peterdu1109&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
 
 ---
@@ -241,7 +241,7 @@ const peter = {
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28" /> Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peterdu1109&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6ac4f4&line=6ac4f4&point=ffffff&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peterdu1109&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6ac4f4&line=6ac4f4&point=ffffff&area=true" />
 </div>
 
 ---
@@ -249,7 +249,7 @@ const peter = {
 ## <img src="https://media.giphy.com/media/sbwi1fE42xK7m4IUXE/giphy.gif" width="28" /> Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Peterdu1109/Peterdu1109/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/peterdu1109/peterdu1109/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -258,7 +258,7 @@ const peter = {
 
 <div align="center">
 
-<a href="https://github.com/Peterdu1109">
+<a href="https://github.com/peterdu1109">
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:contact@peterdu.fr">
@@ -273,6 +273,6 @@ const peter = {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer" />
 
-<sub>⭐ From <a href="https://github.com/Peterdu1109">Peterdu1109</a> — Merci de votre visite !</sub>
+<sub>⭐ From <a href="https://github.com/peterdu1109">peterdu1109</a> — Merci de votre visite !</sub>
 
 </div>
