@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://github.com/peterdu1109">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=peterdu1109&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cloud%20%7C%20DevOps&descAlignY=58&descSize=18&animation=twinkling" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=peterdu1109&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cloud%20%7C%20Self-Hosted&descAlignY=58&descSize=18&animation=twinkling" alt="banner" />
 </a>
 
 <a href="https://github.com/peterdu1109">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=6AC4F4&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Bienvenue+sur+mon+profil+GitHub+%F0%9F%91%8B;Full-Stack+Developer+%7C+DevOps+%7C+Cloud+Engineer;Toujours+en+train+d%27apprendre+quelque+chose+de+nouveau+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=6AC4F4&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Bienvenue+sur+mon+profil+GitHub+%F0%9F%91%8B;Full-Stack+Developer+%7C+DevOps+%7C+Self-Hosted+addict;Cr%C3%A9ateur+de+plugins+Jellyfin+%F0%9F%8E%AC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -18,14 +18,14 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> À propos de moi
+## 👨‍💻 À propos de moi
 
 ```typescript
 const peter = {
   pronouns: "he/him",
   role: "Full-Stack Developer",
   location: "France 🇫🇷",
-  code: ["TypeScript", "Python", "C#", "Java", "PHP", "C++"],
+  code: ["TypeScript", "C#", "Python", "Java", "PHP", "C++"],
   stack: {
     frontend: ["React", "Next.js", "Angular", "Bootstrap"],
     backend:  ["Node.js", ".NET", "Express", "PHP"],
@@ -33,14 +33,38 @@ const peter = {
     devops:   ["Docker", "Nginx", "Apache", "GitLab CI", "Grafana"],
     databases:["MongoDB", "MariaDB", "Redis", "SQLite", "Firebase"]
   },
-  currentFocus: "Architectures cloud, DevOps & IA 🤖",
+  currentFocus: "Plugins Jellyfin 🎬, self-hosting & architectures cloud",
   funFact:     "Je parle couramment le français, le binaire et le JavaScript 😄"
 };
 ```
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cs,python,java,php,cpp,react,nextjs,angular,nodejs,dotnet,docker,nginx,aws,azure,gcp,cloudflare,mongodb,redis,git,figma&perline=11" alt="skill icons" />
+</div>
+
 ---
 
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30" /> Tech Stack
+## 🚀 Projets phares
+
+<div align="center">
+
+<a href="https://github.com/peterdu1109/NotifySync">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterdu1109&repo=NotifySync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ac4f4&icon_color=6ac4f4&text_color=c9d1d9" alt="NotifySync" />
+</a>
+<a href="https://github.com/peterdu1109/MediaCarousel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterdu1109&repo=MediaCarousel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ac4f4&icon_color=6ac4f4&text_color=c9d1d9" alt="MediaCarousel" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/peterdu1109/NotifySync"><img src="https://img.shields.io/badge/🔔_NotifySync-Notifications_natives_pour_Jellyfin-6ac4f4?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://github.com/peterdu1109/MediaCarousel"><img src="https://img.shields.io/badge/🎠_MediaCarousel-Carrousel_Nouveautés_%26_Top_10-6ac4f4?style=for-the-badge&labelColor=0d1117" /></a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <details open>
 <summary><b>💻 Langages</b></summary>
@@ -193,8 +217,8 @@ const peter = {
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
   <img src="https://img.shields.io/badge/Jellyfin-000B25?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC" />
+  <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white" />
   <img src="https://img.shields.io/badge/Homebridge-491F59?style=for-the-badge&logo=homebridge&logoColor=white" />
   <img src="https://img.shields.io/badge/Pi--Hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
@@ -205,7 +229,7 @@ const peter = {
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -222,7 +246,7 @@ const peter = {
 
 ---
 
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" /> Trophies
+## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=peterdu1109&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=6" alt="trophies" />
@@ -230,15 +254,7 @@ const peter = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> Top Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=peterdu1109&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28" /> Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=peterdu1109&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6ac4f4&line=6ac4f4&point=ffffff&area=true" />
@@ -246,23 +262,35 @@ const peter = {
 
 ---
 
-## <img src="https://media.giphy.com/media/sbwi1fE42xK7m4IUXE/giphy.gif" width="28" /> Snake Animation
+## 🐍 Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/peterdu1109/peterdu1109/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peterdu1109/peterdu1109/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peterdu1109/peterdu1109/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/peterdu1109/peterdu1109/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28" /> Connect with me
+## 💬 Quote of the day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+## 🌐 Connect with me
 
 <div align="center">
 
 <a href="https://github.com/peterdu1109">
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="mailto:contact@peterdu.fr">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://x.com/peterdu1109">
+  <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 </div>
