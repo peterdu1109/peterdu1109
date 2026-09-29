@@ -48,17 +48,23 @@ const peter = {
 
 <div align="center">
 
-<a href="https://github.com/peterdu1109/NotifySync">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterdu1109&repo=NotifySync&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ac4f4&icon_color=6ac4f4&text_color=c9d1d9" alt="NotifySync" />
-</a>
-<a href="https://github.com/peterdu1109/MediaCarousel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterdu1109&repo=MediaCarousel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6ac4f4&icon_color=6ac4f4&text_color=c9d1d9" alt="MediaCarousel" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/peterdu1109/NotifySync"><img src="https://img.shields.io/badge/🔔_NotifySync-Notifications_natives_pour_Jellyfin-6ac4f4?style=for-the-badge&labelColor=0d1117" /></a>
-<a href="https://github.com/peterdu1109/MediaCarousel"><img src="https://img.shields.io/badge/🎠_MediaCarousel-Carrousel_Nouveautés_%26_Top_10-6ac4f4?style=for-the-badge&labelColor=0d1117" /></a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/peterdu1109/NotifySync"><b>🔔 NotifySync</b></a><br/>
+      <sub>Icône de notification (cloche) native pour Jellyfin :<br/>les derniers ajouts sans quitter la page.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/peterdu1109/NotifySync?style=flat-square&color=6ac4f4&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jellyfin-000B25?style=flat-square&logo=Jellyfin&logoColor=00A4DC" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/peterdu1109/MediaCarousel"><b>🎠 MediaCarousel</b></a><br/>
+      <sub>Carrousel « Nouveautés » et « Top 10 »<br/>pour ton interface média.</sub><br/><br/>
+      <img src="https://img.shields.io/github/stars/peterdu1109/MediaCarousel?style=flat-square&color=6ac4f4&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -233,31 +239,15 @@ const peter = {
 
 <div align="center">
 
-<a href="https://github.com/peterdu1109">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peterdu1109&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=6ac4f4&icon_color=6ac4f4&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterdu1109&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&title_color=6ac4f4&text_color=c9d1d9&langs_count=10" />
-</a>
+<img src="https://raw.githubusercontent.com/peterdu1109/peterdu1109/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" width="49%" />
+<img src="https://raw.githubusercontent.com/peterdu1109/peterdu1109/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Langages les plus utilisés" width="49%" />
+<img src="https://raw.githubusercontent.com/peterdu1109/peterdu1109/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos par langage" width="49%" />
+<img src="https://raw.githubusercontent.com/peterdu1109/peterdu1109/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Heures productives" width="49%" />
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=peterdu1109&theme=tokyonight&hide_border=true&background=0D1117&ring=6ac4f4&fire=6ac4f4&currStreakLabel=6ac4f4" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=peterdu1109&theme=tokyonight&hide_border=true&background=0D1117&ring=6ac4f4&fire=6ac4f4&currStreakLabel=6ac4f4" alt="Streak Stats" />
 
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=peterdu1109&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=6" alt="trophies" />
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peterdu1109&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6ac4f4&line=6ac4f4&point=ffffff&area=true" />
 </div>
 
 ---
@@ -270,14 +260,6 @@ const peter = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/peterdu1109/peterdu1109/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/peterdu1109/peterdu1109/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </picture>
-</div>
-
----
-
-## 💬 Quote of the day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
