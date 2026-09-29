@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/v3
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
